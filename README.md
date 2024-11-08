@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dgtejn.github.io/rsschool-cv/cv
