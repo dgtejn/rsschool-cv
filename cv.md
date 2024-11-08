@@ -7,7 +7,7 @@
 
 
 ## About me
-I am a philologist, but now I am studying Front-end development. I am friendly, open-minded person and hard-working perdon. 
+I am a philologisе and now I am studying Front-end development. I am friendly, open-minded and hard-working person. 
 
 ## Skill and Profiency:
 - HTML5, CSS
